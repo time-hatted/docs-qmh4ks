@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-zoosj4.prompt-gacha.com/sitemap.xml
